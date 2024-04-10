@@ -7,4 +7,9 @@
 ##Links
 Email-cmj040813@naver.com
 
-##
+##Programming
+파이썬과 C프로그래밍을 다룰 수 있습니다.
+
+##Likes
+고양이와 강아지를 좋아합니다.
+
